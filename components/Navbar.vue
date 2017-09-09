@@ -2,6 +2,7 @@
 <nav class="navbar">
     <section>
         <button class="navbar-link">Button</button>
+        <h1>Hello</h1>
     </section>
 </nav>
 </template>
